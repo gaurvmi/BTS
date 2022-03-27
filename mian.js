@@ -6,7 +6,7 @@ song_LGO = "";
 
  function prload()
  {
-    songDefult = "";
+    songDefult = "Dynamite.mp3";
 
  }
 
